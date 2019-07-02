@@ -1,0 +1,41 @@
+.proxyBody{
+        display           : flex;
+        border            : 1px solid #eee;
+        padding           : 10px;
+}
+.requestBody {
+        width   : 50%;
+        padding : 10px;
+        border  : 1px solid #eee;
+}
+.requestHeader {
+        width   : 50%;
+        padding : 10px;
+        border  : 1px solid #eee;
+}
+
+.inpParam{
+        width         : 20%;
+        height        : 22px;
+        border        : 1px solid #eee;
+        text-indent   : 5px;
+        border-radius : 2px;
+        outline       : none;
+}
+
+.keyvalueHolder{
+        padding   : 10px;
+        border    : 1px solid #eee;
+}
+
+.paramHolder{
+        max-height    : 300px;
+        overflow      : scroll;
+        margin-bottom : 5px;
+}
+
+.addMore{
+        color       : #69b9da;
+        font-size   : 14px;
+        cursor      : pointer;
+}

@@ -1,0 +1,38 @@
+.proxyHeader{
+        border  : 1px solid #eee;
+        padding : 10px;
+}
+
+.reqType {
+        background    : #e4e5e8;
+        width         : 100px;
+        height        : 33px;
+        outline       : none
+}
+.inpUrl {
+        height          : 29px;
+        border-radius   : 5px;
+        outline         : none;
+        border          : 2px solid #eae7e7;
+        width           : 75%;
+}
+.inpClientID{
+        height          : 29px;
+        border-radius   : 5px;
+        outline         : none;
+        border          : 2px solid #eae7e7;
+        width           : 25%; 
+}
+
+.btn {
+        height          : 33px;
+        border          : 2px solid #eee;
+        width           : 70px;
+        border-radius   : 2px;
+        outline         : none;
+        cursor          : pointer;
+}
+.primary {
+        background    : #2387ce;
+        color         : white;
+}
